@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/list"
+        android:id="@+id/nav_list"
         android:icon="@drawable/list_button"
         android:title="List"
         android:enabled="true"
         />
     <item
-        android:id="@+id/calendar"
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/calendar_button"
         android:title="Calendar"
         android:enabled="true"
         />
